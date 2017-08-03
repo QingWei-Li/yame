@@ -25,19 +25,19 @@ yame
 Install package
 
 ```sh
-yame vue
+yame add vue
 ```
 
 Use taobao registry
 
 ```sh
-yame vue --use taobao
+yame add vue --use taobao
 ```
 
 Force update registry url
 
 ```sh
-yame vue --use taobao --update-registry
+yame add vue --use taobao --update-registry
 ```
 
 ## Options
